@@ -1,7 +1,7 @@
 node-module-seed
 ================
 
-Seed repo for new node modules
+Seed repo for new node modules. Repository contains basic directory structure for new node modules.
 
 Install it with:
 ```
