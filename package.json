@@ -1,6 +1,6 @@
 {
   "name": "module-seed",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Seed repo for new node modules",
   "main": "lib/index.js",
   "directories": {
