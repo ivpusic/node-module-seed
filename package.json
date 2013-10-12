@@ -1,0 +1,32 @@
+{
+  "name": "module-seed",
+  "version": "0.0.1",
+  "description": "Seed repo for new node modules",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ivpusic/node-module-seed.git"
+  },
+  "keywords": [
+    "seed",
+    "node",
+    "repo",
+    "new",
+    "projects",
+    "express"
+  ],
+  "author": "Ivan Pusic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivpusic/node-module-seed/issues"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0"
+  }
+}
